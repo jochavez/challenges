@@ -24,7 +24,10 @@
               'Michael'
             ];
 
+          sort($unOrderedArray);
+
           // code goes here...
+          print_r( $unOrderedArray );
           ?>
         </p>
   </body>
