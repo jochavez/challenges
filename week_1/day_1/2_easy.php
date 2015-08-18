@@ -17,7 +17,7 @@
         <p>
           <?php
             $number = 3 // this came from the previous page as a post variable
-
+            //eric sucks
           	// code goes here ...
           ?>
         </p>
